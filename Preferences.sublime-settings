@@ -1,0 +1,74 @@
+{
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 0,
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin, text.haml",
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "ng-controller=\"*",
+			"selector": "punctuation.definition.string"
+		}
+	],
+	"auto_complete_with_fields": true,
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache"
+	],
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 14,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignore_vcs_packages": true,
+	"ignored_packages":
+	[
+		"GutterColor",
+		"Markdown",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"indent_to_bracket": false,
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"/Users/rahmatawaludin/Code/malescast-hexo/.deploy_git*"
+	],
+	"index_files": false,
+	"line_padding_bottom": 10,
+	"line_padding_top": 10,
+	"overlay_scroll_bars": "enabled",
+	"piatto_folder_icons": true,
+	"remember_full_screen": true,
+	"remember_open_files": false,
+	"reveal-on-activate": true,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"set_translate_tabs": true,
+	"smart_indent": true,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"word_wrap": true
+}

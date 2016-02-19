@@ -1,0 +1,25 @@
+{
+  // When set to true GitGutter runs asynchronously in a seperate thread
+  // This may cause a small delay between a modification and the icon change
+  // but can increase performance greatly if needed.
+  "non_blocking": true,
+
+  // When using non_blocking mode, delay update of gutter icons by the
+  // following amount (in milliseconds).
+  "debounce_delay": 1000,
+
+  // Add a special marker on untracked files
+  "show_markers_on_untracked_file": true,
+
+  // Focus Change mode evaluates changes every time a view gets the focus
+  // Set false to disable evaluation when changing views
+  "focus_change_mode": false,
+
+  // Determines whether GitGutter will show informations in the status bar
+  // Set "none" to hide these informations
+  // Set "default" to show in the status bar what you are comparing
+  // against, how many lines have been inserted or modified and how many regions
+  // have been deleted.
+  // Set "all" to also show on what branch you are
+  "show_status": "none",
+}

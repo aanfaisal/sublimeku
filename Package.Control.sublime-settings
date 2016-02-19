@@ -1,0 +1,57 @@
+{
+	"bootstrapped": true,
+	"ignore_vcs_packages": true,
+	"in_process_packages":
+	[
+	],
+	"install_prereleases": true,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AlignTab",
+		"AngularJS",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"CloseOtherWindows",
+		"CodeComplice",
+		"ColorPicker",
+		"EJS",
+		"Emmet",
+		"ExpandRegion",
+		"ExtendedTabSwitcher",
+		"Focus File on Sidebar",
+		"Foundation 5 Snippets",
+		"GitGutter",
+		"Handlebars",
+		"Javascript Beautify",
+		"LESS",
+		"MarkdownEditing",
+		"Material Theme",
+		"Material Theme - White Panels",
+		"Meteor Snippets",
+		"Origami",
+		"Package Control",
+		"Package Syncing",
+		"PHP Companion",
+		"phpfmt",
+		"PHPUnit Completions",
+		"Random Everything",
+		"Sass",
+		"Schemr",
+		"Shell Exec",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"SublimeGit",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"SyncedSidebarBg",
+		"Theme - Brogrammer",
+		"Theme - Cobalt2",
+		"Themr"
+	],
+	"repositories":
+	[
+		"https://sublime.wbond.net/prerelease/packages.json",
+		"https://github.com/tednaleid/sublime-EasyMotion/tree/st3"
+	]
+}
