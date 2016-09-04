@@ -13,7 +13,7 @@
 	"auto_complete_with_fields": true,
 	"auto_indent": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/MarkdownEditor (SL).tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
@@ -28,7 +28,7 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 14,
+	"font_size": 10,
 	"highlight_line": true,
 	"hot_exit": false,
 	"ignore_vcs_packages": true,
@@ -47,7 +47,7 @@
 	"index_exclude_patterns":
 	[
 		"*.log",
-		"/Users/rahmatawaludin/Code/malescast-hexo/.deploy_git*"
+		"/Home/anisku11/.deploy_git*"
 	],
 	"index_files": false,
 	"line_padding_bottom": 10,
@@ -66,7 +66,6 @@
 	"scroll_past_end": true,
 	"set_translate_tabs": true,
 	"smart_indent": true,
-	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
