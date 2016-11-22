@@ -1,8 +1,0 @@
-{
-	"debug": true,
-	"enable_auto_align": true,
-	"format_on_save": false,
-	"php55warning": false,
-	"psr2": true,
-	"version": 4
-}

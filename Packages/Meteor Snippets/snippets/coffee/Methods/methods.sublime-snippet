@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Meteor.methods
+	${1:methodName}: ($2) ->
+		${3:# ...}
+]]></content>
+	<tabTrigger>Meteor.methods</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor.methods(methods)</description>
+</snippet>

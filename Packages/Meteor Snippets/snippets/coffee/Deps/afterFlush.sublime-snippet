@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Deps.afterFlush ${1:() ->
+	${2:# callback}
+}
+]]></content>
+	<tabTrigger>Deps.afterFlush</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: Deps.afterFlush(callback)</description>
+</snippet>

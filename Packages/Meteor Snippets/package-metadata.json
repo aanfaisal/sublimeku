@@ -1,0 +1,1 @@
+{"platforms": ["*"], "dependencies": [], "url": "https://github.com/mrtnbroder/meteor-snippets", "description": "Sublime Text Snippets for the Meteor Framework", "version": "0.9.4", "sublime_text": "*"}

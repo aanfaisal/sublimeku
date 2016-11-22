@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+equals ${1:a}, ${2:b}
+]]></content>
+	<tabTrigger>equals</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: EJSON.equals(val)</description>
+</snippet>

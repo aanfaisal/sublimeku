@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+onStop ${1:($2) ->
+	${3:# ...}
+}
+]]></content>
+	<tabTrigger>onStop</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: this.onStop(fn)</description>
+</snippet>

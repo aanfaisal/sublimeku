@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+helpers
+	${1:foo}: ($2) ->
+		${3:# ...}
+]]></content>
+	<tabTrigger>helpers</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: Template.myTemplate.helpers(helpers)</description>
+</snippet>

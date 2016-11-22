@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+observeChanges ${1:${2:
+	added: (id, fields) ->
+		${3:# ...}
+	# Use either added() OR(!) addedBefore()}${4:
+	addedBefore: (id, fields, before) ->
+		${5:# ...}
+	}${6:
+	changed: (id, fields) ->
+		${7:# ...}
+	}${8:
+	movedBefore: (id, fields) ->
+		${9:# ...}
+	}${10:
+	removed: (id) ->
+		${11:# ...}
+	}
+}
+]]></content>
+	<tabTrigger>observeChanges</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: cursor.observeChanges(callbacks)</description>
+</snippet>

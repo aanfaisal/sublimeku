@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+stopped;
+]]></content>
+	<tabTrigger>stopped</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: computation.stopped</description>
+</snippet>

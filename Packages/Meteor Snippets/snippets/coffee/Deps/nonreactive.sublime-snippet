@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Deps.nonreactive ${1:() ->
+	${2:# ...}
+}
+]]></content>
+	<tabTrigger>Deps.nonreactive</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: Deps.nonreactive(fn)</description>
+</snippet>

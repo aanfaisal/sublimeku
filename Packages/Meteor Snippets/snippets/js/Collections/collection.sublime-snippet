@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Mongo.Collection('${1:bar}'${2:, ${3:options}});
+]]></content>
+	<tabTrigger>Mongo.Collection</tabTrigger>
+	<scope>source.js</scope>
+	<description>new Mongo.Collection(name, [options])</description>
+</snippet>

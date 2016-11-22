@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+allow
+	insert: (userId, doc) ->
+		${1:# ...}
+	update: (userId, doc, fields, modifier) ->
+		${2:# ...}
+	remove: (userId, doc) ->
+		${3:# ...}
+	fetch: ['${4:owner}']${5:,
+	transform: () ->
+		${6:# ...}
+	}
+]]></content>
+	<tabTrigger>allow</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: collection.allow(options)</description>
+</snippet>

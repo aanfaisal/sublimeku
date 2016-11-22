@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+data
+]]></content>
+	<tabTrigger>data</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: this.data</description>
+</snippet>

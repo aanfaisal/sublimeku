@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+observe ${1:${2:
+	added: (document) ->
+		${3:# ...}
+	# Use either added() OR(!) addedAt()}${4:
+	addedAt: (document, atIndex, before) ->
+		${5:# ...}
+	}${6:
+	changed: (newDocument, oldDocument) ->
+		${7:# ...}
+	# Use either changed() OR(!) changedAt()}${8:
+	changedAt: (newDocument, oldDocument, atIndex) ->
+		${9:# ...}
+	}${10:
+	removed: (oldDocument) ->
+		${11:# ...}
+	# Use either removed() OR(!) removedAt()}${12:
+	removedAt: (oldDocument, atIndex) ->
+		${13:# ...}
+	}${14:
+	movedTo: (document, fromIndex, toIndex, before) ->
+		${15:# ...}
+	}
+}
+]]></content>
+	<tabTrigger>observe</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: cursor.observe(callbacks)</description>
+</snippet>

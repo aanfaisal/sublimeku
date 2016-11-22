@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+preserve
+	'${1:input[id]}': (${2:node}) ->
+		${3:# node.id}
+	$4
+]]></content>
+	<tabTrigger>preserve</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: Template.myTemplate.preserve(selectors)</description>
+</snippet>

@@ -1,3 +1,0 @@
-{
-    "codeintel_exclude_scopes_from_complete_triggers": ["comment", "text.html.markdown.gfm", "meta.paragraph.markdown", "text.html.basic"],
-}

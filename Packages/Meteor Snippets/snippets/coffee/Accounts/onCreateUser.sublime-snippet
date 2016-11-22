@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Accounts.onCreateUser (${1:options, user}) ->
+	${2:# ...}
+]]></content>
+	<tabTrigger>Accounts.onCreateUser</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: Accounts.onCreateUser(fn)</description>
+</snippet>

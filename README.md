@@ -1,2 +1,0 @@
-# sublimeku
-My Sublime Config :) 

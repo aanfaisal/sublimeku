@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+DDP.connect(${1:url});
+]]></content>
+	<tabTrigger>DDP.connect</tabTrigger>
+	<scope>source.js</scope>
+	<description>DDP.connect(url)</description>
+</snippet>

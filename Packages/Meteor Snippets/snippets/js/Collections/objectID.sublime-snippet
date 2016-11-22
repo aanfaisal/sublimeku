@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Mongo.Collection.ObjectID(${1:hexString});
+]]></content>
+	<tabTrigger>Mongo.Collection</tabTrigger>
+	<scope>source.js</scope>
+	<description>new Mongo.Collection.ObjectID(hexString)</description>
+</snippet>

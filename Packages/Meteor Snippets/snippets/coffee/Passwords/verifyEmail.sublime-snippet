@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Accounts.verifyEmail ${1:token}${2:, (error) ->
+	${4:# ...}
+}
+]]></content>
+	<tabTrigger>Accounts.verifyEmail</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: Accounts.verifyEmail(token, [callback])</description>
+</snippet>

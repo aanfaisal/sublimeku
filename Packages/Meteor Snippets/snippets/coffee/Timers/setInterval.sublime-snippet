@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Meteor.setInterval ${1:($2) ->
+	${3:# ...}
+}, ${4:delay}
+]]></content>
+	<tabTrigger>Meteor.setInterval</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor.setInterval(fn, delay)</description>
+</snippet>

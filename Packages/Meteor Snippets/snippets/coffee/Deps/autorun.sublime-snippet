@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Deps.autorun ${1:() ->
+	${2:# ...}
+}
+]]></content>
+	<tabTrigger>Deps.autorun</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: Deps.autorun(runFunc)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+fetch()
+]]></content>
+	<tabTrigger>fetch</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: cursor.fetch()</description>
+</snippet>

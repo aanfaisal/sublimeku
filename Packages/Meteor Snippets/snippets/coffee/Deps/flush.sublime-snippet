@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Deps.flush()
+]]></content>
+	<tabTrigger>Deps.flush</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: Deps.flush()</description>
+</snippet>
